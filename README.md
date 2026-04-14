@@ -43,10 +43,13 @@ The FISOR framework combines multilayer textile supports (S1–S4) with intercha
 
 ## 📂 Repository Structure
 
-- `LMM_analysis.R` → Mixed-effects modeling and statistical analysis  
-- `Pareto_AUC_dP_analysis.R` → Pareto ranking and trade-off analysis  
-- `data.csv` → Experimental dataset (if included)  
-- `README.md` → Project documentation  
+- LMM_analysis.R` → Mixed-effects modeling and statistical analysis  
+- AUC_DeltaP_Vs_qFo_Comparison.R` → Pareto ranking and trade-off analysis
+- Pareto_analysis.R → Analysis of overall penetration behavior across the full particle-size spectrum based on the area under the penetration–particle size curve (AUC)
+- Penetration_LMM_R_long.csv` → Experimental dataset
+- Penetration_long_with_DeltaP_before_AUC.csv →  Experimental dataset
+- QF.csv → Experimental dataset
+- README.md` → Project documentation  
 
 ---
 

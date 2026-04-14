@@ -1,0 +1,481 @@
+SpecimenID,Replicates,S,Structure,F,Filter,Rep,ParticleSize_nm,Penetration_pct
+S1F1_R1,S1F11,1,Two-layer knit,1,Activated carbon,1,30,34.98186
+S1F1_R1,S1F11,1,Two-layer knit,1,Activated carbon,1,40,45.37278
+S1F1_R1,S1F11,1,Two-layer knit,1,Activated carbon,1,60,61.545717
+S1F1_R1,S1F11,1,Two-layer knit,1,Activated carbon,1,80,67.248935
+S1F1_R1,S1F11,1,Two-layer knit,1,Activated carbon,1,150,74.571959
+S1F1_R1,S1F11,1,Two-layer knit,1,Activated carbon,1,250,80.045242
+S1F1_R1,S1F11,1,Two-layer knit,1,Activated carbon,1,300,79.259777
+S1F1_R1,S1F11,1,Two-layer knit,1,Activated carbon,1,400,83.498554
+S1F1_R2,S1F12,1,Two-layer knit,1,Activated carbon,2,30,32.493567
+S1F1_R2,S1F12,1,Two-layer knit,1,Activated carbon,2,40,42.615998
+S1F1_R2,S1F12,1,Two-layer knit,1,Activated carbon,2,60,59.705355
+S1F1_R2,S1F12,1,Two-layer knit,1,Activated carbon,2,80,65.373078
+S1F1_R2,S1F12,1,Two-layer knit,1,Activated carbon,2,150,76.15784
+S1F1_R2,S1F12,1,Two-layer knit,1,Activated carbon,2,250,81.709003
+S1F1_R2,S1F12,1,Two-layer knit,1,Activated carbon,2,300,82.079179
+S1F1_R2,S1F12,1,Two-layer knit,1,Activated carbon,2,400,81.799614
+S1F1_R3,S1F13,1,Two-layer knit,1,Activated carbon,3,30,32.644058
+S1F1_R3,S1F13,1,Two-layer knit,1,Activated carbon,3,40,43.239022
+S1F1_R3,S1F13,1,Two-layer knit,1,Activated carbon,3,60,58.026679
+S1F1_R3,S1F13,1,Two-layer knit,1,Activated carbon,3,80,66.582354
+S1F1_R3,S1F13,1,Two-layer knit,1,Activated carbon,3,150,76.195199
+S1F1_R3,S1F13,1,Two-layer knit,1,Activated carbon,3,250,83.787879
+S1F1_R3,S1F13,1,Two-layer knit,1,Activated carbon,3,300,74.311111
+S1F1_R3,S1F13,1,Two-layer knit,1,Activated carbon,3,400,82.388445
+S1F1_R4,S1F14,1,Two-layer knit,1,Activated carbon,4,30,34.752049
+S1F1_R4,S1F14,1,Two-layer knit,1,Activated carbon,4,40,45.179871
+S1F1_R4,S1F14,1,Two-layer knit,1,Activated carbon,4,60,59.120779
+S1F1_R4,S1F14,1,Two-layer knit,1,Activated carbon,4,80,68.504212
+S1F1_R4,S1F14,1,Two-layer knit,1,Activated carbon,4,150,78.776558
+S1F1_R4,S1F14,1,Two-layer knit,1,Activated carbon,4,250,85.673806
+S1F1_R4,S1F14,1,Two-layer knit,1,Activated carbon,4,300,84.354839
+S1F1_R4,S1F14,1,Two-layer knit,1,Activated carbon,4,400,83.435458
+S1F1_R5,S1F15,1,Two-layer knit,1,Activated carbon,5,30,36.809225
+S1F1_R5,S1F15,1,Two-layer knit,1,Activated carbon,5,40,47.327039
+S1F1_R5,S1F15,1,Two-layer knit,1,Activated carbon,5,60,61.23857
+S1F1_R5,S1F15,1,Two-layer knit,1,Activated carbon,5,80,70.774627
+S1F1_R5,S1F15,1,Two-layer knit,1,Activated carbon,5,150,79.324353
+S1F1_R5,S1F15,1,Two-layer knit,1,Activated carbon,5,250,84.051495
+S1F1_R5,S1F15,1,Two-layer knit,1,Activated carbon,5,300,80.976812
+S1F1_R5,S1F15,1,Two-layer knit,1,Activated carbon,5,400,84.705007
+S1F2_R1,S1F21,1,Two-layer knit,2,Meltblown,1,30,10.925354
+S1F2_R1,S1F21,1,Two-layer knit,2,Meltblown,1,40,14.592417
+S1F2_R1,S1F21,1,Two-layer knit,2,Meltblown,1,60,18.583982
+S1F2_R1,S1F21,1,Two-layer knit,2,Meltblown,1,80,20.481937
+S1F2_R1,S1F21,1,Two-layer knit,2,Meltblown,1,150,21.612597
+S1F2_R1,S1F21,1,Two-layer knit,2,Meltblown,1,250,22.131764
+S1F2_R1,S1F21,1,Two-layer knit,2,Meltblown,1,300,20.492309
+S1F2_R1,S1F21,1,Two-layer knit,2,Meltblown,1,400,17.771825
+S1F2_R2,S1F22,1,Two-layer knit,2,Meltblown,2,30,10.292864
+S1F2_R2,S1F22,1,Two-layer knit,2,Meltblown,2,40,14.356975
+S1F2_R2,S1F22,1,Two-layer knit,2,Meltblown,2,60,18.647524
+S1F2_R2,S1F22,1,Two-layer knit,2,Meltblown,2,80,20.613007
+S1F2_R2,S1F22,1,Two-layer knit,2,Meltblown,2,150,23.245781
+S1F2_R2,S1F22,1,Two-layer knit,2,Meltblown,2,250,23.237066
+S1F2_R2,S1F22,1,Two-layer knit,2,Meltblown,2,300,21.594902
+S1F2_R2,S1F22,1,Two-layer knit,2,Meltblown,2,400,18.821541
+S1F2_R3,S1F23,1,Two-layer knit,2,Meltblown,3,30,12.735506
+S1F2_R3,S1F23,1,Two-layer knit,2,Meltblown,3,40,16.691178
+S1F2_R3,S1F23,1,Two-layer knit,2,Meltblown,3,60,21.241613
+S1F2_R3,S1F23,1,Two-layer knit,2,Meltblown,3,80,23.65514
+S1F2_R3,S1F23,1,Two-layer knit,2,Meltblown,3,150,28.518698
+S1F2_R3,S1F23,1,Two-layer knit,2,Meltblown,3,250,29.540118
+S1F2_R3,S1F23,1,Two-layer knit,2,Meltblown,3,300,27.812816
+S1F2_R3,S1F23,1,Two-layer knit,2,Meltblown,3,400,24.506607
+S1F2_R4,S1F24,1,Two-layer knit,2,Meltblown,4,30,10.793165
+S1F2_R4,S1F24,1,Two-layer knit,2,Meltblown,4,40,14.708855
+S1F2_R4,S1F24,1,Two-layer knit,2,Meltblown,4,60,19.628439
+S1F2_R4,S1F24,1,Two-layer knit,2,Meltblown,4,80,21.74445
+S1F2_R4,S1F24,1,Two-layer knit,2,Meltblown,4,150,25.84237
+S1F2_R4,S1F24,1,Two-layer knit,2,Meltblown,4,250,25.737739
+S1F2_R4,S1F24,1,Two-layer knit,2,Meltblown,4,300,24.193438
+S1F2_R4,S1F24,1,Two-layer knit,2,Meltblown,4,400,21.067832
+S1F2_R5,S1F25,1,Two-layer knit,2,Meltblown,5,30,12.184996
+S1F2_R5,S1F25,1,Two-layer knit,2,Meltblown,5,40,16.089635
+S1F2_R5,S1F25,1,Two-layer knit,2,Meltblown,5,60,20.250855
+S1F2_R5,S1F25,1,Two-layer knit,2,Meltblown,5,80,21.724033
+S1F2_R5,S1F25,1,Two-layer knit,2,Meltblown,5,150,25.575591
+S1F2_R5,S1F25,1,Two-layer knit,2,Meltblown,5,250,26.163749
+S1F2_R5,S1F25,1,Two-layer knit,2,Meltblown,5,300,24.618097
+S1F2_R5,S1F25,1,Two-layer knit,2,Meltblown,5,400,21.429364
+S1F3_R1,S1F31,1,Two-layer knit,3,Glass fiber,1,30,1.560582
+S1F3_R1,S1F31,1,Two-layer knit,3,Glass fiber,1,40,3.525781
+S1F3_R1,S1F31,1,Two-layer knit,3,Glass fiber,1,60,8.669941
+S1F3_R1,S1F31,1,Two-layer knit,3,Glass fiber,1,80,13.55196
+S1F3_R1,S1F31,1,Two-layer knit,3,Glass fiber,1,150,18.361842
+S1F3_R1,S1F31,1,Two-layer knit,3,Glass fiber,1,250,15.087709
+S1F3_R1,S1F31,1,Two-layer knit,3,Glass fiber,1,300,12.916026
+S1F3_R1,S1F31,1,Two-layer knit,3,Glass fiber,1,400,9.324665
+S1F3_R2,S1F32,1,Two-layer knit,3,Glass fiber,2,30,2.189299
+S1F3_R2,S1F32,1,Two-layer knit,3,Glass fiber,2,40,4.405787
+S1F3_R2,S1F32,1,Two-layer knit,3,Glass fiber,2,60,11.034399
+S1F3_R2,S1F32,1,Two-layer knit,3,Glass fiber,2,80,14.792488
+S1F3_R2,S1F32,1,Two-layer knit,3,Glass fiber,2,150,19.258098
+S1F3_R2,S1F32,1,Two-layer knit,3,Glass fiber,2,250,15.963876
+S1F3_R2,S1F32,1,Two-layer knit,3,Glass fiber,2,300,13.616157
+S1F3_R2,S1F32,1,Two-layer knit,3,Glass fiber,2,400,9.981808
+S1F3_R3,S1F33,1,Two-layer knit,3,Glass fiber,3,30,1.986151
+S1F3_R3,S1F33,1,Two-layer knit,3,Glass fiber,3,40,4.231493
+S1F3_R3,S1F33,1,Two-layer knit,3,Glass fiber,3,60,10.785429
+S1F3_R3,S1F33,1,Two-layer knit,3,Glass fiber,3,80,14.698874
+S1F3_R3,S1F33,1,Two-layer knit,3,Glass fiber,3,150,19.965345
+S1F3_R3,S1F33,1,Two-layer knit,3,Glass fiber,3,250,15.991844
+S1F3_R3,S1F33,1,Two-layer knit,3,Glass fiber,3,300,13.577419
+S1F3_R3,S1F33,1,Two-layer knit,3,Glass fiber,3,400,9.881772
+S1F3_R4,S1F34,1,Two-layer knit,3,Glass fiber,4,30,2.237494
+S1F3_R4,S1F34,1,Two-layer knit,3,Glass fiber,4,40,4.203254
+S1F3_R4,S1F34,1,Two-layer knit,3,Glass fiber,4,60,10.302193
+S1F3_R4,S1F34,1,Two-layer knit,3,Glass fiber,4,80,14.213599
+S1F3_R4,S1F34,1,Two-layer knit,3,Glass fiber,4,150,18.539381
+S1F3_R4,S1F34,1,Two-layer knit,3,Glass fiber,4,250,15.719738
+S1F3_R4,S1F34,1,Two-layer knit,3,Glass fiber,4,300,13.84521
+S1F3_R4,S1F34,1,Two-layer knit,3,Glass fiber,4,400,10.33881
+S1F3_R5,S1F35,1,Two-layer knit,3,Glass fiber,5,30,1.787422
+S1F3_R5,S1F35,1,Two-layer knit,3,Glass fiber,5,40,3.79577
+S1F3_R5,S1F35,1,Two-layer knit,3,Glass fiber,5,60,9.599162
+S1F3_R5,S1F35,1,Two-layer knit,3,Glass fiber,5,80,13.340171
+S1F3_R5,S1F35,1,Two-layer knit,3,Glass fiber,5,150,17.943916
+S1F3_R5,S1F35,1,Two-layer knit,3,Glass fiber,5,250,15.220659
+S1F3_R5,S1F35,1,Two-layer knit,3,Glass fiber,5,300,13.009808
+S1F3_R5,S1F35,1,Two-layer knit,3,Glass fiber,5,400,9.61533
+S2F1_R1,S2F11,2,Four-layer knit,1,Activated carbon,1,30,22.385877
+S2F1_R1,S2F11,2,Four-layer knit,1,Activated carbon,1,40,31.212306
+S2F1_R1,S2F11,2,Four-layer knit,1,Activated carbon,1,60,46.232858
+S2F1_R1,S2F11,2,Four-layer knit,1,Activated carbon,1,80,55.918393
+S2F1_R1,S2F11,2,Four-layer knit,1,Activated carbon,1,150,68.543675
+S2F1_R1,S2F11,2,Four-layer knit,1,Activated carbon,1,250,74.268534
+S2F1_R1,S2F11,2,Four-layer knit,1,Activated carbon,1,300,75.299042
+S2F1_R1,S2F11,2,Four-layer knit,1,Activated carbon,1,400,74.397244
+S2F1_R2,S2F12,2,Four-layer knit,1,Activated carbon,2,30,21.511021
+S2F1_R2,S2F12,2,Four-layer knit,1,Activated carbon,2,40,30.550304
+S2F1_R2,S2F12,2,Four-layer knit,1,Activated carbon,2,60,45.617471
+S2F1_R2,S2F12,2,Four-layer knit,1,Activated carbon,2,80,53.949528
+S2F1_R2,S2F12,2,Four-layer knit,1,Activated carbon,2,150,70.114701
+S2F1_R2,S2F12,2,Four-layer knit,1,Activated carbon,2,250,74.073955
+S2F1_R2,S2F12,2,Four-layer knit,1,Activated carbon,2,300,76.736239
+S2F1_R2,S2F12,2,Four-layer knit,1,Activated carbon,2,400,74.114733
+S2F1_R3,S2F13,2,Four-layer knit,1,Activated carbon,3,30,20.999378
+S2F1_R3,S2F13,2,Four-layer knit,1,Activated carbon,3,40,29.88862
+S2F1_R3,S2F13,2,Four-layer knit,1,Activated carbon,3,60,45.22273
+S2F1_R3,S2F13,2,Four-layer knit,1,Activated carbon,3,80,53.319555
+S2F1_R3,S2F13,2,Four-layer knit,1,Activated carbon,3,150,66.409406
+S2F1_R3,S2F13,2,Four-layer knit,1,Activated carbon,3,250,72.785953
+S2F1_R3,S2F13,2,Four-layer knit,1,Activated carbon,3,300,75.35908
+S2F1_R3,S2F13,2,Four-layer knit,1,Activated carbon,3,400,74.643984
+S2F1_R4,S2F14,2,Four-layer knit,1,Activated carbon,4,30,23.314909
+S2F1_R4,S2F14,2,Four-layer knit,1,Activated carbon,4,40,32.899151
+S2F1_R4,S2F14,2,Four-layer knit,1,Activated carbon,4,60,49.458537
+S2F1_R4,S2F14,2,Four-layer knit,1,Activated carbon,4,80,56.559512
+S2F1_R4,S2F14,2,Four-layer knit,1,Activated carbon,4,150,69.51697
+S2F1_R4,S2F14,2,Four-layer knit,1,Activated carbon,4,250,74.228099
+S2F1_R4,S2F14,2,Four-layer knit,1,Activated carbon,4,300,76.685894
+S2F1_R4,S2F14,2,Four-layer knit,1,Activated carbon,4,400,76.269675
+S2F1_R5,S2F15,2,Four-layer knit,1,Activated carbon,5,30,20.906078
+S2F1_R5,S2F15,2,Four-layer knit,1,Activated carbon,5,40,30.213042
+S2F1_R5,S2F15,2,Four-layer knit,1,Activated carbon,5,60,46.873918
+S2F1_R5,S2F15,2,Four-layer knit,1,Activated carbon,5,80,52.90315
+S2F1_R5,S2F15,2,Four-layer knit,1,Activated carbon,5,150,66.817413
+S2F1_R5,S2F15,2,Four-layer knit,1,Activated carbon,5,250,76.553512
+S2F1_R5,S2F15,2,Four-layer knit,1,Activated carbon,5,300,74.528012
+S2F1_R5,S2F15,2,Four-layer knit,1,Activated carbon,5,400,74.027073
+S2F2_R1,S2F21,2,Four-layer knit,2,Meltblown,1,30,9.112867
+S2F2_R1,S2F21,2,Four-layer knit,2,Meltblown,1,40,12.378526
+S2F2_R1,S2F21,2,Four-layer knit,2,Meltblown,1,60,17.567925
+S2F2_R1,S2F21,2,Four-layer knit,2,Meltblown,1,80,19.507032
+S2F2_R1,S2F21,2,Four-layer knit,2,Meltblown,1,150,23.698039
+S2F2_R1,S2F21,2,Four-layer knit,2,Meltblown,1,250,24.3389
+S2F2_R1,S2F21,2,Four-layer knit,2,Meltblown,1,300,22.808805
+S2F2_R1,S2F21,2,Four-layer knit,2,Meltblown,1,400,19.908979
+S2F2_R2,S2F22,2,Four-layer knit,2,Meltblown,2,30,5.683911
+S2F2_R2,S2F22,2,Four-layer knit,2,Meltblown,2,40,8.530413
+S2F2_R2,S2F22,2,Four-layer knit,2,Meltblown,2,60,12.104855
+S2F2_R2,S2F22,2,Four-layer knit,2,Meltblown,2,80,13.884838
+S2F2_R2,S2F22,2,Four-layer knit,2,Meltblown,2,150,16.388948
+S2F2_R2,S2F22,2,Four-layer knit,2,Meltblown,2,250,16.305845
+S2F2_R2,S2F22,2,Four-layer knit,2,Meltblown,2,300,15.283281
+S2F2_R2,S2F22,2,Four-layer knit,2,Meltblown,2,400,13.154811
+S2F2_R3,S2F23,2,Four-layer knit,2,Meltblown,3,30,9.215375
+S2F2_R3,S2F23,2,Four-layer knit,2,Meltblown,3,40,12.545972
+S2F2_R3,S2F23,2,Four-layer knit,2,Meltblown,3,60,17.226535
+S2F2_R3,S2F23,2,Four-layer knit,2,Meltblown,3,80,19.657439
+S2F2_R3,S2F23,2,Four-layer knit,2,Meltblown,3,150,23.692466
+S2F2_R3,S2F23,2,Four-layer knit,2,Meltblown,3,250,24.755575
+S2F2_R3,S2F23,2,Four-layer knit,2,Meltblown,3,300,23.301019
+S2F2_R3,S2F23,2,Four-layer knit,2,Meltblown,3,400,20.428957
+S2F2_R4,S2F24,2,Four-layer knit,2,Meltblown,4,30,6.94076
+S2F2_R4,S2F24,2,Four-layer knit,2,Meltblown,4,40,9.957248
+S2F2_R4,S2F24,2,Four-layer knit,2,Meltblown,4,60,13.920293
+S2F2_R4,S2F24,2,Four-layer knit,2,Meltblown,4,80,15.301777
+S2F2_R4,S2F24,2,Four-layer knit,2,Meltblown,4,150,17.207216
+S2F2_R4,S2F24,2,Four-layer knit,2,Meltblown,4,250,17.022543
+S2F2_R4,S2F24,2,Four-layer knit,2,Meltblown,4,300,15.950099
+S2F2_R4,S2F24,2,Four-layer knit,2,Meltblown,4,400,13.60293
+S2F2_R5,S2F25,2,Four-layer knit,2,Meltblown,5,30,5.995826
+S2F2_R5,S2F25,2,Four-layer knit,2,Meltblown,5,40,9.274217
+S2F2_R5,S2F25,2,Four-layer knit,2,Meltblown,5,60,14.000574
+S2F2_R5,S2F25,2,Four-layer knit,2,Meltblown,5,80,15.998789
+S2F2_R5,S2F25,2,Four-layer knit,2,Meltblown,5,150,19.948998
+S2F2_R5,S2F25,2,Four-layer knit,2,Meltblown,5,250,20.422484
+S2F2_R5,S2F25,2,Four-layer knit,2,Meltblown,5,300,19.510487
+S2F2_R5,S2F25,2,Four-layer knit,2,Meltblown,5,400,17.531214
+S2F3_R1,S2F31,2,Four-layer knit,3,Glass fiber,1,30,1.323296
+S2F3_R1,S2F31,2,Four-layer knit,3,Glass fiber,1,40,2.97972
+S2F3_R1,S2F31,2,Four-layer knit,3,Glass fiber,1,60,7.445538
+S2F3_R1,S2F31,2,Four-layer knit,3,Glass fiber,1,80,11.650182
+S2F3_R1,S2F31,2,Four-layer knit,3,Glass fiber,1,150,15.994363
+S2F3_R1,S2F31,2,Four-layer knit,3,Glass fiber,1,250,14.152705
+S2F3_R1,S2F31,2,Four-layer knit,3,Glass fiber,1,300,12.161599
+S2F3_R1,S2F31,2,Four-layer knit,3,Glass fiber,1,400,8.63367
+S2F3_R2,S2F32,2,Four-layer knit,3,Glass fiber,2,30,0.924528
+S2F3_R2,S2F32,2,Four-layer knit,3,Glass fiber,2,40,2.241129
+S2F3_R2,S2F32,2,Four-layer knit,3,Glass fiber,2,60,7.002565
+S2F3_R2,S2F32,2,Four-layer knit,3,Glass fiber,2,80,8.617211
+S2F3_R2,S2F32,2,Four-layer knit,3,Glass fiber,2,150,14.626644
+S2F3_R2,S2F32,2,Four-layer knit,3,Glass fiber,2,250,12.586567
+S2F3_R2,S2F32,2,Four-layer knit,3,Glass fiber,2,300,10.950826
+S2F3_R2,S2F32,2,Four-layer knit,3,Glass fiber,2,400,7.874665
+S2F3_R3,S2F33,2,Four-layer knit,3,Glass fiber,3,30,1.16398
+S2F3_R3,S2F33,2,Four-layer knit,3,Glass fiber,3,40,2.735484
+S2F3_R3,S2F33,2,Four-layer knit,3,Glass fiber,3,60,7.093556
+S2F3_R3,S2F33,2,Four-layer knit,3,Glass fiber,3,80,11.659544
+S2F3_R3,S2F33,2,Four-layer knit,3,Glass fiber,3,150,16.264111
+S2F3_R3,S2F33,2,Four-layer knit,3,Glass fiber,3,250,13.667813
+S2F3_R3,S2F33,2,Four-layer knit,3,Glass fiber,3,300,11.718849
+S2F3_R3,S2F33,2,Four-layer knit,3,Glass fiber,3,400,8.391026
+S2F3_R4,S2F34,2,Four-layer knit,3,Glass fiber,4,30,0.939061
+S2F3_R4,S2F34,2,Four-layer knit,3,Glass fiber,4,40,2.271877
+S2F3_R4,S2F34,2,Four-layer knit,3,Glass fiber,4,60,7.035967
+S2F3_R4,S2F34,2,Four-layer knit,3,Glass fiber,4,80,8.570086
+S2F3_R4,S2F34,2,Four-layer knit,3,Glass fiber,4,150,14.999649
+S2F3_R4,S2F34,2,Four-layer knit,3,Glass fiber,4,250,12.718878
+S2F3_R4,S2F34,2,Four-layer knit,3,Glass fiber,4,300,10.931854
+S2F3_R4,S2F34,2,Four-layer knit,3,Glass fiber,4,400,7.929604
+S2F3_R5,S2F35,2,Four-layer knit,3,Glass fiber,5,30,0.96913
+S2F3_R5,S2F35,2,Four-layer knit,3,Glass fiber,5,40,2.325668
+S2F3_R5,S2F35,2,Four-layer knit,3,Glass fiber,5,60,7.168455
+S2F3_R5,S2F35,2,Four-layer knit,3,Glass fiber,5,80,8.700693
+S2F3_R5,S2F35,2,Four-layer knit,3,Glass fiber,5,150,15.002712
+S2F3_R5,S2F35,2,Four-layer knit,3,Glass fiber,5,250,12.770223
+S2F3_R5,S2F35,2,Four-layer knit,3,Glass fiber,5,300,10.971619
+S2F3_R5,S2F35,2,Four-layer knit,3,Glass fiber,5,400,7.956109
+S3F1_R1,S3F11,3,Two-layer woven,1,Activated carbon,1,30,15.32594
+S3F1_R1,S3F11,3,Two-layer woven,1,Activated carbon,1,40,21.041917
+S3F1_R1,S3F11,3,Two-layer woven,1,Activated carbon,1,60,32.141428
+S3F1_R1,S3F11,3,Two-layer woven,1,Activated carbon,1,80,37.642438
+S3F1_R1,S3F11,3,Two-layer woven,1,Activated carbon,1,150,52.792862
+S3F1_R1,S3F11,3,Two-layer woven,1,Activated carbon,1,250,55.656693
+S3F1_R1,S3F11,3,Two-layer woven,1,Activated carbon,1,300,60.526044
+S3F1_R1,S3F11,3,Two-layer woven,1,Activated carbon,1,400,59.184584
+S3F1_R2,S3F12,3,Two-layer woven,1,Activated carbon,2,30,15.406374
+S3F1_R2,S3F12,3,Two-layer woven,1,Activated carbon,2,40,20.719774
+S3F1_R2,S3F12,3,Two-layer woven,1,Activated carbon,2,60,31.592318
+S3F1_R2,S3F12,3,Two-layer woven,1,Activated carbon,2,80,37.531474
+S3F1_R2,S3F12,3,Two-layer woven,1,Activated carbon,2,150,50.095832
+S3F1_R2,S3F12,3,Two-layer woven,1,Activated carbon,2,250,59.385417
+S3F1_R2,S3F12,3,Two-layer woven,1,Activated carbon,2,300,58.725344
+S3F1_R2,S3F12,3,Two-layer woven,1,Activated carbon,2,400,57.972148
+S3F1_R3,S3F13,3,Two-layer woven,1,Activated carbon,3,30,13.739974
+S3F1_R3,S3F13,3,Two-layer woven,1,Activated carbon,3,40,18.542737
+S3F1_R3,S3F13,3,Two-layer woven,1,Activated carbon,3,60,27.023597
+S3F1_R3,S3F13,3,Two-layer woven,1,Activated carbon,3,80,33.254712
+S3F1_R3,S3F13,3,Two-layer woven,1,Activated carbon,3,150,45.831745
+S3F1_R3,S3F13,3,Two-layer woven,1,Activated carbon,3,250,53.890971
+S3F1_R3,S3F13,3,Two-layer woven,1,Activated carbon,3,300,55.641498
+S3F1_R3,S3F13,3,Two-layer woven,1,Activated carbon,3,400,54.740452
+S3F1_R4,S3F14,3,Two-layer woven,1,Activated carbon,4,30,14.244773
+S3F1_R4,S3F14,3,Two-layer woven,1,Activated carbon,4,40,18.331213
+S3F1_R4,S3F14,3,Two-layer woven,1,Activated carbon,4,60,27.203268
+S3F1_R4,S3F14,3,Two-layer woven,1,Activated carbon,4,80,31.970168
+S3F1_R4,S3F14,3,Two-layer woven,1,Activated carbon,4,150,42.860626
+S3F1_R4,S3F14,3,Two-layer woven,1,Activated carbon,4,250,50.036545
+S3F1_R4,S3F14,3,Two-layer woven,1,Activated carbon,4,300,52.671496
+S3F1_R4,S3F14,3,Two-layer woven,1,Activated carbon,4,400,51.396364
+S3F1_R5,S3F15,3,Two-layer woven,1,Activated carbon,5,30,13.602338
+S3F1_R5,S3F15,3,Two-layer woven,1,Activated carbon,5,40,18.318786
+S3F1_R5,S3F15,3,Two-layer woven,1,Activated carbon,5,60,26.860854
+S3F1_R5,S3F15,3,Two-layer woven,1,Activated carbon,5,80,31.862155
+S3F1_R5,S3F15,3,Two-layer woven,1,Activated carbon,5,150,45.587212
+S3F1_R5,S3F15,3,Two-layer woven,1,Activated carbon,5,250,52.748727
+S3F1_R5,S3F15,3,Two-layer woven,1,Activated carbon,5,300,54.807363
+S3F1_R5,S3F15,3,Two-layer woven,1,Activated carbon,5,400,53.331894
+S3F2_R1,S3F21,3,Two-layer woven,2,Meltblown,1,30,5.805649
+S3F2_R1,S3F21,3,Two-layer woven,2,Meltblown,1,40,8.189894
+S3F2_R1,S3F21,3,Two-layer woven,2,Meltblown,1,60,9.582989
+S3F2_R1,S3F21,3,Two-layer woven,2,Meltblown,1,80,9.165866
+S3F2_R1,S3F21,3,Two-layer woven,2,Meltblown,1,150,7.006506
+S3F2_R1,S3F21,3,Two-layer woven,2,Meltblown,1,250,5.101472
+S3F2_R1,S3F21,3,Two-layer woven,2,Meltblown,1,300,4.368535
+S3F2_R1,S3F21,3,Two-layer woven,2,Meltblown,1,400,3.262423
+S3F2_R2,S3F22,3,Two-layer woven,2,Meltblown,2,30,8.685125
+S3F2_R2,S3F22,3,Two-layer woven,2,Meltblown,2,40,10.791434
+S3F2_R2,S3F22,3,Two-layer woven,2,Meltblown,2,60,11.590683
+S3F2_R2,S3F22,3,Two-layer woven,2,Meltblown,2,80,10.203455
+S3F2_R2,S3F22,3,Two-layer woven,2,Meltblown,2,150,7.270003
+S3F2_R2,S3F22,3,Two-layer woven,2,Meltblown,2,250,5.416867
+S3F2_R2,S3F22,3,Two-layer woven,2,Meltblown,2,300,4.661664
+S3F2_R2,S3F22,3,Two-layer woven,2,Meltblown,2,400,3.384115
+S3F2_R3,S3F23,3,Two-layer woven,2,Meltblown,3,30,7.756918
+S3F2_R3,S3F23,3,Two-layer woven,2,Meltblown,3,40,10.364896
+S3F2_R3,S3F23,3,Two-layer woven,2,Meltblown,3,60,11.739631
+S3F2_R3,S3F23,3,Two-layer woven,2,Meltblown,3,80,11.23775
+S3F2_R3,S3F23,3,Two-layer woven,2,Meltblown,3,150,8.445378
+S3F2_R3,S3F23,3,Two-layer woven,2,Meltblown,3,250,6.242625
+S3F2_R3,S3F23,3,Two-layer woven,2,Meltblown,3,300,5.44265
+S3F2_R3,S3F23,3,Two-layer woven,2,Meltblown,3,400,4.028925
+S3F2_R4,S3F24,3,Two-layer woven,2,Meltblown,4,30,8.845623
+S3F2_R4,S3F24,3,Two-layer woven,2,Meltblown,4,40,11.202477
+S3F2_R4,S3F24,3,Two-layer woven,2,Meltblown,4,60,11.855888
+S3F2_R4,S3F24,3,Two-layer woven,2,Meltblown,4,80,11.503256
+S3F2_R4,S3F24,3,Two-layer woven,2,Meltblown,4,150,9.00378
+S3F2_R4,S3F24,3,Two-layer woven,2,Meltblown,4,250,7.105201
+S3F2_R4,S3F24,3,Two-layer woven,2,Meltblown,4,300,6.161893
+S3F2_R4,S3F24,3,Two-layer woven,2,Meltblown,4,400,4.628586
+S3F2_R5,S3F25,3,Two-layer woven,2,Meltblown,5,30,6.955057
+S3F2_R5,S3F25,3,Two-layer woven,2,Meltblown,5,40,9.281632
+S3F2_R5,S3F25,3,Two-layer woven,2,Meltblown,5,60,10.83656
+S3F2_R5,S3F25,3,Two-layer woven,2,Meltblown,5,80,9.763537
+S3F2_R5,S3F25,3,Two-layer woven,2,Meltblown,5,150,7.847397
+S3F2_R5,S3F25,3,Two-layer woven,2,Meltblown,5,250,6.05621
+S3F2_R5,S3F25,3,Two-layer woven,2,Meltblown,5,300,5.222244
+S3F2_R5,S3F25,3,Two-layer woven,2,Meltblown,5,400,3.867491
+S3F3_R1,S3F31,3,Two-layer woven,3,Glass fiber,1,30,1.612842
+S3F3_R1,S3F31,3,Two-layer woven,3,Glass fiber,1,40,3.076541
+S3F3_R1,S3F31,3,Two-layer woven,3,Glass fiber,1,60,7.556631
+S3F3_R1,S3F31,3,Two-layer woven,3,Glass fiber,1,80,8.464932
+S3F3_R1,S3F31,3,Two-layer woven,3,Glass fiber,1,150,14.993703
+S3F3_R1,S3F31,3,Two-layer woven,3,Glass fiber,1,250,13.320218
+S3F3_R1,S3F31,3,Two-layer woven,3,Glass fiber,1,300,11.524843
+S3F3_R1,S3F31,3,Two-layer woven,3,Glass fiber,1,400,8.375376
+S3F3_R2,S3F32,3,Two-layer woven,3,Glass fiber,2,30,2.521874
+S3F3_R2,S3F32,3,Two-layer woven,3,Glass fiber,2,40,3.757828
+S3F3_R2,S3F32,3,Two-layer woven,3,Glass fiber,2,60,7.362209
+S3F3_R2,S3F32,3,Two-layer woven,3,Glass fiber,2,80,9.931675
+S3F3_R2,S3F32,3,Two-layer woven,3,Glass fiber,2,150,14.871873
+S3F3_R2,S3F32,3,Two-layer woven,3,Glass fiber,2,250,12.924927
+S3F3_R2,S3F32,3,Two-layer woven,3,Glass fiber,2,300,11.340922
+S3F3_R2,S3F32,3,Two-layer woven,3,Glass fiber,2,400,8.793024
+S3F3_R3,S3F33,3,Two-layer woven,3,Glass fiber,3,30,3.306497
+S3F3_R3,S3F33,3,Two-layer woven,3,Glass fiber,3,40,4.136186
+S3F3_R3,S3F33,3,Two-layer woven,3,Glass fiber,3,60,6.964191
+S3F3_R3,S3F33,3,Two-layer woven,3,Glass fiber,3,80,9.020726
+S3F3_R3,S3F33,3,Two-layer woven,3,Glass fiber,3,150,12.82042
+S3F3_R3,S3F33,3,Two-layer woven,3,Glass fiber,3,250,12.16811
+S3F3_R3,S3F33,3,Two-layer woven,3,Glass fiber,3,300,10.979981
+S3F3_R3,S3F33,3,Two-layer woven,3,Glass fiber,3,400,8.810897
+S3F3_R4,S3F34,3,Two-layer woven,3,Glass fiber,4,30,3.805148
+S3F3_R4,S3F34,3,Two-layer woven,3,Glass fiber,4,40,4.694625
+S3F3_R4,S3F34,3,Two-layer woven,3,Glass fiber,4,60,7.368976
+S3F3_R4,S3F34,3,Two-layer woven,3,Glass fiber,4,80,9.177152
+S3F3_R4,S3F34,3,Two-layer woven,3,Glass fiber,4,150,12.908544
+S3F3_R4,S3F34,3,Two-layer woven,3,Glass fiber,4,250,11.603793
+S3F3_R4,S3F34,3,Two-layer woven,3,Glass fiber,4,300,10.472517
+S3F3_R4,S3F34,3,Two-layer woven,3,Glass fiber,4,400,8.405621
+S3F3_R5,S3F35,3,Two-layer woven,3,Glass fiber,5,30,1.132631
+S3F3_R5,S3F35,3,Two-layer woven,3,Glass fiber,5,40,2.268869
+S3F3_R5,S3F35,3,Two-layer woven,3,Glass fiber,5,60,5.187806
+S3F3_R5,S3F35,3,Two-layer woven,3,Glass fiber,5,80,7.024901
+S3F3_R5,S3F35,3,Two-layer woven,3,Glass fiber,5,150,10.35825
+S3F3_R5,S3F35,3,Two-layer woven,3,Glass fiber,5,250,9.143659
+S3F3_R5,S3F35,3,Two-layer woven,3,Glass fiber,5,300,8.016418
+S3F3_R5,S3F35,3,Two-layer woven,3,Glass fiber,5,400,5.819937
+S4F1_R1,S4F11,4,Two-layer spunbond,1,Activated carbon,1,30,33.449507
+S4F1_R1,S4F11,4,Two-layer spunbond,1,Activated carbon,1,40,41.916958
+S4F1_R1,S4F11,4,Two-layer spunbond,1,Activated carbon,1,60,58.060481
+S4F1_R1,S4F11,4,Two-layer spunbond,1,Activated carbon,1,80,67.482633
+S4F1_R1,S4F11,4,Two-layer spunbond,1,Activated carbon,1,150,77.518253
+S4F1_R1,S4F11,4,Two-layer spunbond,1,Activated carbon,1,250,89.508914
+S4F1_R1,S4F11,4,Two-layer spunbond,1,Activated carbon,1,300,87.793103
+S4F1_R1,S4F11,4,Two-layer spunbond,1,Activated carbon,1,400,86.511159
+S4F1_R2,S4F12,4,Two-layer spunbond,1,Activated carbon,2,30,31.607745
+S4F1_R2,S4F12,4,Two-layer spunbond,1,Activated carbon,2,40,39.56112
+S4F1_R2,S4F12,4,Two-layer spunbond,1,Activated carbon,2,60,54.373654
+S4F1_R2,S4F12,4,Two-layer spunbond,1,Activated carbon,2,80,62.682019
+S4F1_R2,S4F12,4,Two-layer spunbond,1,Activated carbon,2,150,77.106745
+S4F1_R2,S4F12,4,Two-layer spunbond,1,Activated carbon,2,250,88.682566
+S4F1_R2,S4F12,4,Two-layer spunbond,1,Activated carbon,2,300,81.874659
+S4F1_R2,S4F12,4,Two-layer spunbond,1,Activated carbon,2,400,84.928141
+S4F1_R3,S4F13,4,Two-layer spunbond,1,Activated carbon,3,30,34.180369
+S4F1_R3,S4F13,4,Two-layer spunbond,1,Activated carbon,3,40,41.610187
+S4F1_R3,S4F13,4,Two-layer spunbond,1,Activated carbon,3,60,56.524757
+S4F1_R3,S4F13,4,Two-layer spunbond,1,Activated carbon,3,80,62.719437
+S4F1_R3,S4F13,4,Two-layer spunbond,1,Activated carbon,3,150,75.572635
+S4F1_R3,S4F13,4,Two-layer spunbond,1,Activated carbon,3,250,86.340694
+S4F1_R3,S4F13,4,Two-layer spunbond,1,Activated carbon,3,300,79.798408
+S4F1_R3,S4F13,4,Two-layer spunbond,1,Activated carbon,3,400,86.831042
+S4F1_R4,S4F14,4,Two-layer spunbond,1,Activated carbon,4,30,32.842515
+S4F1_R4,S4F14,4,Two-layer spunbond,1,Activated carbon,4,40,40.609456
+S4F1_R4,S4F14,4,Two-layer spunbond,1,Activated carbon,4,60,53.271697
+S4F1_R4,S4F14,4,Two-layer spunbond,1,Activated carbon,4,80,65.396037
+S4F1_R4,S4F14,4,Two-layer spunbond,1,Activated carbon,4,150,73.036275
+S4F1_R4,S4F14,4,Two-layer spunbond,1,Activated carbon,4,250,85.10625
+S4F1_R4,S4F14,4,Two-layer spunbond,1,Activated carbon,4,300,87.530259
+S4F1_R4,S4F14,4,Two-layer spunbond,1,Activated carbon,4,400,85.671075
+S4F1_R5,S4F15,4,Two-layer spunbond,1,Activated carbon,5,30,31.482297
+S4F1_R5,S4F15,4,Two-layer spunbond,1,Activated carbon,5,40,40.206449
+S4F1_R5,S4F15,4,Two-layer spunbond,1,Activated carbon,5,60,55.413516
+S4F1_R5,S4F15,4,Two-layer spunbond,1,Activated carbon,5,80,63.055757
+S4F1_R5,S4F15,4,Two-layer spunbond,1,Activated carbon,5,150,77.280534
+S4F1_R5,S4F15,4,Two-layer spunbond,1,Activated carbon,5,250,80.176024
+S4F1_R5,S4F15,4,Two-layer spunbond,1,Activated carbon,5,300,96.846906
+S4F1_R5,S4F15,4,Two-layer spunbond,1,Activated carbon,5,400,86.903525
+S4F2_R1,S4F21,4,Two-layer spunbond,2,Meltblown,1,30,6.983660999999998
+S4F2_R1,S4F21,4,Two-layer spunbond,2,Meltblown,1,40,8.997191999999998
+S4F2_R1,S4F21,4,Two-layer spunbond,2,Meltblown,1,60,9.722301000000002
+S4F2_R1,S4F21,4,Two-layer spunbond,2,Meltblown,1,80,8.711847000000006
+S4F2_R1,S4F21,4,Two-layer spunbond,2,Meltblown,1,150,6.533032000000006
+S4F2_R1,S4F21,4,Two-layer spunbond,2,Meltblown,1,250,5.977324999999993
+S4F2_R1,S4F21,4,Two-layer spunbond,2,Meltblown,1,300,6.114399000000006
+S4F2_R1,S4F21,4,Two-layer spunbond,2,Meltblown,1,400,6.934876000000003
+S4F2_R2,S4F22,4,Two-layer spunbond,2,Meltblown,2,30,8.692504
+S4F2_R2,S4F22,4,Two-layer spunbond,2,Meltblown,2,40,10.59092699999999
+S4F2_R2,S4F22,4,Two-layer spunbond,2,Meltblown,2,60,10.923389
+S4F2_R2,S4F22,4,Two-layer spunbond,2,Meltblown,2,80,9.989751999999996
+S4F2_R2,S4F22,4,Two-layer spunbond,2,Meltblown,2,150,7.686498999999998
+S4F2_R2,S4F22,4,Two-layer spunbond,2,Meltblown,2,250,7.184894
+S4F2_R2,S4F22,4,Two-layer spunbond,2,Meltblown,2,300,7.241784999999993
+S4F2_R2,S4F22,4,Two-layer spunbond,2,Meltblown,2,400,8.046041000000002
+S4F2_R3,S4F23,4,Two-layer spunbond,2,Meltblown,3,30,7.387432000000004
+S4F2_R3,S4F23,4,Two-layer spunbond,2,Meltblown,3,40,9.530922000000004
+S4F2_R3,S4F23,4,Two-layer spunbond,2,Meltblown,3,60,10.32910699999999
+S4F2_R3,S4F23,4,Two-layer spunbond,2,Meltblown,3,80,9.445721000000006
+S4F2_R3,S4F23,4,Two-layer spunbond,2,Meltblown,3,150,7.007424
+S4F2_R3,S4F23,4,Two-layer spunbond,2,Meltblown,3,250,6.230866000000006
+S4F2_R3,S4F23,4,Two-layer spunbond,2,Meltblown,3,300,6.362966999999998
+S4F2_R3,S4F23,4,Two-layer spunbond,2,Meltblown,3,400,7.149365000000003
+S4F2_R4,S4F24,4,Two-layer spunbond,2,Meltblown,4,30,8.484009
+S4F2_R4,S4F24,4,Two-layer spunbond,2,Meltblown,4,40,10.420395
+S4F2_R4,S4F24,4,Two-layer spunbond,2,Meltblown,4,60,10.77861300000001
+S4F2_R4,S4F24,4,Two-layer spunbond,2,Meltblown,4,80,9.797037000000003
+S4F2_R4,S4F24,4,Two-layer spunbond,2,Meltblown,4,150,7.433259000000007
+S4F2_R4,S4F24,4,Two-layer spunbond,2,Meltblown,4,250,7.005295000000004
+S4F2_R4,S4F24,4,Two-layer spunbond,2,Meltblown,4,300,7.123475999999997
+S4F2_R4,S4F24,4,Two-layer spunbond,2,Meltblown,4,400,7.928214999999994
+S4F2_R5,S4F25,4,Two-layer spunbond,2,Meltblown,5,30,8.530293
+S4F2_R5,S4F25,4,Two-layer spunbond,2,Meltblown,5,40,10.504294
+S4F2_R5,S4F25,4,Two-layer spunbond,2,Meltblown,5,60,10.911748
+S4F2_R5,S4F25,4,Two-layer spunbond,2,Meltblown,5,80,10.01167599999999
+S4F2_R5,S4F25,4,Two-layer spunbond,2,Meltblown,5,150,7.769777000000005
+S4F2_R5,S4F25,4,Two-layer spunbond,2,Meltblown,5,250,7.119336000000004
+S4F2_R5,S4F25,4,Two-layer spunbond,2,Meltblown,5,300,7.234375999999997
+S4F2_R5,S4F25,4,Two-layer spunbond,2,Meltblown,5,400,8.067971999999997
+S4F3_R1,S4F31,4,Two-layer spunbond,3,Glass fiber,1,30,2.302123
+S4F3_R1,S4F31,4,Two-layer spunbond,3,Glass fiber,1,40,4.650633
+S4F3_R1,S4F31,4,Two-layer spunbond,3,Glass fiber,1,60,11.103584
+S4F3_R1,S4F31,4,Two-layer spunbond,3,Glass fiber,1,80,15.221874
+S4F3_R1,S4F31,4,Two-layer spunbond,3,Glass fiber,1,150,21.135155
+S4F3_R1,S4F31,4,Two-layer spunbond,3,Glass fiber,1,250,16.611146
+S4F3_R1,S4F31,4,Two-layer spunbond,3,Glass fiber,1,300,14.256469
+S4F3_R1,S4F31,4,Two-layer spunbond,3,Glass fiber,1,400,10.374786
+S4F3_R2,S4F32,4,Two-layer spunbond,3,Glass fiber,2,30,2.748161
+S4F3_R2,S4F32,4,Two-layer spunbond,3,Glass fiber,2,40,5.219318
+S4F3_R2,S4F32,4,Two-layer spunbond,3,Glass fiber,2,60,11.993322
+S4F3_R2,S4F32,4,Two-layer spunbond,3,Glass fiber,2,80,16.210623
+S4F3_R2,S4F32,4,Two-layer spunbond,3,Glass fiber,2,150,21.190392
+S4F3_R2,S4F32,4,Two-layer spunbond,3,Glass fiber,2,250,17.167662
+S4F3_R2,S4F32,4,Two-layer spunbond,3,Glass fiber,2,300,14.799996
+S4F3_R2,S4F32,4,Two-layer spunbond,3,Glass fiber,2,400,11.061909
+S4F3_R3,S4F33,4,Two-layer spunbond,3,Glass fiber,3,30,2.15578
+S4F3_R3,S4F33,4,Two-layer spunbond,3,Glass fiber,3,40,4.353518
+S4F3_R3,S4F33,4,Two-layer spunbond,3,Glass fiber,3,60,9.71423
+S4F3_R3,S4F33,4,Two-layer spunbond,3,Glass fiber,3,80,14.691065
+S4F3_R3,S4F33,4,Two-layer spunbond,3,Glass fiber,3,150,19.493444
+S4F3_R3,S4F33,4,Two-layer spunbond,3,Glass fiber,3,250,15.63755
+S4F3_R3,S4F33,4,Two-layer spunbond,3,Glass fiber,3,300,13.334211
+S4F3_R3,S4F33,4,Two-layer spunbond,3,Glass fiber,3,400,9.485702
+S4F3_R4,S4F34,4,Two-layer spunbond,3,Glass fiber,4,30,2.003166
+S4F3_R4,S4F34,4,Two-layer spunbond,3,Glass fiber,4,40,4.243951
+S4F3_R4,S4F34,4,Two-layer spunbond,3,Glass fiber,4,60,9.890443
+S4F3_R4,S4F34,4,Two-layer spunbond,3,Glass fiber,4,80,14.586996
+S4F3_R4,S4F34,4,Two-layer spunbond,3,Glass fiber,4,150,18.925813
+S4F3_R4,S4F34,4,Two-layer spunbond,3,Glass fiber,4,250,15.193612
+S4F3_R4,S4F34,4,Two-layer spunbond,3,Glass fiber,4,300,12.9383
+S4F3_R4,S4F34,4,Two-layer spunbond,3,Glass fiber,4,400,9.121297
+S4F3_R5,S4F35,4,Two-layer spunbond,3,Glass fiber,5,30,2.132606
+S4F3_R5,S4F35,4,Two-layer spunbond,3,Glass fiber,5,40,4.238568
+S4F3_R5,S4F35,4,Two-layer spunbond,3,Glass fiber,5,60,9.616444
+S4F3_R5,S4F35,4,Two-layer spunbond,3,Glass fiber,5,80,13.804797
+S4F3_R5,S4F35,4,Two-layer spunbond,3,Glass fiber,5,150,19.081611
+S4F3_R5,S4F35,4,Two-layer spunbond,3,Glass fiber,5,250,15.321422
+S4F3_R5,S4F35,4,Two-layer spunbond,3,Glass fiber,5,300,13.067687
+S4F3_R5,S4F35,4,Two-layer spunbond,3,Glass fiber,5,400,9.410329
